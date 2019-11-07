@@ -1,7 +1,7 @@
 # Gravity
 Gravitational Simulator for Multiple Particles
 
-This is a visual gravity simulator for many particles. It is a fun way to analytically
+This is a visual gravity simulator for many particles. It is a fun way to numerically
 solve the multibody problem.
 
 There is a large blue body in the center of the frame that attracts the
