@@ -1,4 +1,10 @@
 # Gravity
+
+---------------------------------------------------------------------------------------------------
+One of my first projects with python in early college, Inspired by a class in classical mechanincs
+---------------------------------------------------------------------------------------------------
+
+
 Gravitational Simulator for Multiple Particles
 
 This is a visual gravity simulator for many particles. It is a fun way to numerically
